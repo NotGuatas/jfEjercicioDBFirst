@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jfEjercicioDBFirst", "jfEjercicioDBFirst\jfEjercicioDBFirst.csproj", "{5824B825-A659-4CDE-B3BD-ED1DEDD8BB9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5824B825-A659-4CDE-B3BD-ED1DEDD8BB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5824B825-A659-4CDE-B3BD-ED1DEDD8BB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5824B825-A659-4CDE-B3BD-ED1DEDD8BB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5824B825-A659-4CDE-B3BD-ED1DEDD8BB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {813AFF1F-7D74-4566-97ED-F0EC4C94806F}
+	EndGlobalSection
+EndGlobal
